@@ -2,11 +2,6 @@
     $message = filter_input(INPUT_GET, "message");
     $fileName = filter_input(INPUT_GET, "fileName");
     
-    $download = filter_input(INPUT_GET, "download");
-    $file = filter_input(INPUT_GET, "file");
-    if($download == "done"){
-        unlink("sql_files/$file.sql");
-    }
 ?>
 
 <!DOCTYPE html>
