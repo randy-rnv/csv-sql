@@ -15,13 +15,6 @@ $factory = new Factory(
 
 $factory->checkValues();
 
-////////// TOUT REFAIRE ////////////
-
-/**
- * @todo make it to be able to transform more than one file per process
- * 
- */
-
 // create sql from imported file
 if ($factory->fileName != '') {
 	$factory->getContentFromFile();
