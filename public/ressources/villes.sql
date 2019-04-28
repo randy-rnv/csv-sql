@@ -1,0 +1,13 @@
+VALUES("13000","Marseille","www.ma.net","","033");
+VALUES("24200","Sarlat","","","033");
+VALUES("24300","Pays Modifier","","","033");
+VALUES("59000","Lille","www.lille.fr","lille.jpg","033");
+VALUES("69000","Lyon","www.lyon.fr","lyon.jpg","033");
+VALUES("75011","Paris 11","www.paris.fr","paris.jpg","033");
+VALUES("75012","Paris 12","www.paris.fr","paris.jpg","033");
+VALUES("75019","Paris XIX","www.paris.fr","paris.jpg","033");
+VALUES("78000","Versailles","","","033");
+VALUES("94100","Vincennes","","","033");
+VALUES("94200","St Mandé","","","033");
+VALUES("99391","ROME","","","039");
+VALUES("99392","MILAN MODIFIER","","","034");

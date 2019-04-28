@@ -1,0 +1,28 @@
+id,code,iso2,iso3,nom_pays_fr,nom_pays_en
+1,4,AF,AFG,Afghanistan,Afghanistan
+2,8,AL,ALB,Albanie,Albania
+3,10,AQ,ATA,Antarctique,Antarctica
+4,12,DZ,DZA,Algérie,Algeria
+5,16,AS,ASM,Samoa Américaines,American Samoa
+6,20,AD,AND,Andorre,Andorra
+7,24,AO,AGO,Angola,Angola
+8,28,AG,ATG,Antigua-et-Barbuda,Antigua and Barbuda
+9,31,AZ,AZE,Azerbaïdjan,Azerbaijan
+10,32,AR,ARG,Argentine,Argentina
+11,36,AU,AUS,Australie,Australia
+12,40,AT,AUT,Autriche,Austria
+13,44,BS,BHS,Bahamas,Bahamas
+14,48,BH,BHR,Bahreïn,Bahrain
+15,50,BD,BGD,Bangladesh,Bangladesh
+16,51,AM,ARM,Arménie,Armenia
+17,52,BB,BRB,Barbade,Barbados
+18,56,BE,BEL,Belgique,Belgium
+19,60,BM,BMU,Bermudes,Bermuda
+20,64,BT,BTN,Bhoutan,Bhutan
+21,68,BO,BOL,Bolivie,Bolivia
+22,70,BA,BIH,Bosnie-Herzégovine,Bosnia and Herzegovina
+23,72,BW,BWA,Botswana,Botswana
+24,74,BV,BVT,Île Bouvet,Bouvet Island
+25,76,BR,BRA,Brésil,Brazil
+26,84,BZ,BLZ,Belize,Belize
+27,86,IO,IOT,Territoire Britannique de l'Océan Indien,British Indian Ocean Territory

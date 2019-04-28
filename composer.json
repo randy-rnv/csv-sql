@@ -1,0 +1,16 @@
+{
+    "name": "card/csv_sql",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Randy",
+            "email": "mail@me.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {
+        	"Object\\": "object/"
+        }
+    }
+}
