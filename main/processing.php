@@ -15,11 +15,6 @@ $factory = new Factory(
 
 $factory->checkValues();
 
-// create sql from imported file
-if ($factory->fileName != '') {
-	$factory->getContentFromFile();
-}
-
 $factory->createTab();
 $factory->generateSqlInsert();
 

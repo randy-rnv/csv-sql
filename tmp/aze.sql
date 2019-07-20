@@ -1,0 +1,2 @@
+INSERT INTO aze () VALUES 
+;

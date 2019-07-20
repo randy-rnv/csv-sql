@@ -32,6 +32,13 @@ class Factory
 		$this->file 		= $file;
 
 		$this->mainDir		= dirname(__DIR__);
+
+
+		// create sql from imported file
+		if ($this->fileName != '') {
+			$this->getContentFromFile();
+		}
+
 	}
 
     /**
@@ -144,7 +151,7 @@ class Factory
 	        $error .= "- Choisir un séparateur <br/>";
 	    }
 
-	    if (!$this->fileName && !$this->fileContent) {
+	    if (trim($this->fileContent) == '') {
 	        $error .= "- Importer un fichier ou copiez le contenu dans la zone de texte";
 	    }
 
@@ -152,6 +159,7 @@ class Factory
 	    	$msg = "Veuillez: <br/>";
 	    	$msg .= $error;
 	        header("location:../index.php?erreur=$msg");
+	        exit;
 	    }
 
 	}
